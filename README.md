@@ -42,4 +42,4 @@ Clone or download the project files.
 Open the index.html file in your preferred web browser (e.g., Chrome, Firefox, Safari).
 
 Contact
-For any questions or suggestions, please contact [Your Name] at [Your Email Address].
+For any questions or suggestions, please contact Rahul khedkar at rahulkhedkar1454@gmail.com.
